@@ -1,0 +1,197 @@
+/*
+Theme Name: deCente
+Description: Used to style the TinyMCE editor.
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Bitter);
+
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 2;
+	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+	color: #505050;
+}
+
+p, ul, ol, pre, dl dd {
+	margin-bottom: 20px;
+	-webkit-margin-before: 0;
+}
+
+li {
+	line-height: inherit;
+	margin-bottom: 0px;
+}
+
+a,
+a:visited {
+	color: #21759b;
+}
+
+a.button:visited {
+	color: inherit;
+}
+
+a.btn,
+a.btn:visited {
+	color: #505050;
+	text-decoration: none !important;
+}
+
+.btn i {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+a:active {
+	position: relative;
+	top: 1px;
+}
+
+small {
+	color: #606060;	
+	font-size: 10px;
+	font-weight: normal;
+}
+
+code {
+	font-weight: normal;
+}
+
+blockquote,
+blockquote p {
+	color: #707070;
+	font-size: inherit;
+	font-style: italic;
+}
+
+img,
+object {
+	max-width: 100% !important;
+	height: auto;
+}
+
+.label {
+	text-transform: inherit;
+}
+
+table {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+tr.alternate {
+	background: #fcfcfc;
+}
+
+th, td {
+	border: 1px dotted #ddd;
+}
+
+td.label {
+	background: none;
+	font-size: inherit;
+}
+
+
+/* Headings
+================================================== */
+	
+h1, h2, h3, h4, h5, h6 {
+	margin: 0 0 10px;
+	color: #444;
+	font-family: 'Bitter', serif;
+	font-weight: normal;
+	letter-spacing: -1px;
+}
+
+h1 {
+	margin: 0 0 20px;
+	line-height: normal;
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 20px;	
+}
+
+h3 {
+	font-size: 16px;
+}
+
+h4 {
+	font-size: 14px;
+}
+
+h5 {
+	font-size: 13px;
+}
+
+h6 {
+	font-size: 12px;
+}
+
+/* WordPress CSS
+================================================== */
+
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.aligncenter {
+	margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+div.aligncenter {
+	margin-top: 0;
+}
+
+.alignleft {
+	float: left;
+	width: auto;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.alignright {
+	float: right;
+	width: auto;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.wp-caption {
+	max-width: 100%;
+	margin-bottom: 20px;
+	padding: 0;
+	background: #fff;
+	border: 0;
+    font-size: 12px;
+    text-align: left;
+}
+
+.wp-caption-dd {
+	margin-right: 10px;
+	padding: 5px 10px;
+	background-color: #fbfbfb;
+	font-size: 12px;
+}
+
+.wp-caption.aligncenter,
+.wp-caption.alignnone {
+	margin-bottom: 30px;
+}
+
+.wp-caption img {
+	float: none;
+	padding: 0px;
+	border: none;
+}

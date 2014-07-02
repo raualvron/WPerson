@@ -1,0 +1,1578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deCente v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-26 12:12:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:39
+#@ frameshift
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:41
+#@ frameshift
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:46
+#@ frameshift
+msgid "Archives"
+msgstr "Archiv"
+
+#: comments.php:16
+#@ frameshift
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Artikel ist durch ein Passwort geschützt. Bitte Passwort eingeben um die Kommentare zu sehen."
+
+#: comments.php:39
+#: lib/shortcodes/post.php:189
+#@ frameshift
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:63
+#@ frameshift
+msgid "No comments so far."
+msgstr "Keine Kommentare bisher."
+
+#: comments.php:68
+#@ frameshift
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:97
+#@ frameshift
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:150
+#@ frameshift
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:157
+#@ frameshift
+msgid "Email"
+msgstr "E-Mail"
+
+#: comments.php:164
+#@ frameshift
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:172
+#@ frameshift
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:184
+#: lib/shortcodes/post.php:187
+#@ frameshift
+msgid "Leave a Comment"
+msgstr "Kommentar hinterlassen"
+
+#: lib/admin/options-framework.php:64
+#: lib/admin/options-framework.php:204
+#@ frameshift
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: lib/admin/options-framework.php:306
+#@ frameshift
+msgid "Save Options"
+msgstr "Speichern"
+
+#: lib/admin/options-framework.php:307
+#@ frameshift
+msgid "Restore Defaults"
+msgstr "Zurücksetzen"
+
+#: lib/admin/options-framework.php:307
+#@ frameshift
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klick auf OK setzt Optionen zurück. Alle Einstellungen gehen verloren."
+
+#: lib/admin/options-framework.php:341
+#@ frameshift
+msgid "Default options restored"
+msgstr "Standardeinstellungen wiederhergestellt."
+
+#: lib/admin/options-framework.php:383
+#@ frameshift
+msgid "Options saved"
+msgstr "Optionen gespeichert"
+
+#: lib/admin/options-medialibrary-uploader.php:29
+#@ frameshift
+msgid "Options Framework Internal Container"
+msgstr "Options Framework Internal Container"
+
+#: lib/admin/options-medialibrary-uploader.php:148
+#@ frameshift
+msgid "View File"
+msgstr "Datei ansehen"
+
+#: lib/admin/options-medialibrary-uploader.php:154
+#@ frameshift
+msgid "Upload"
+msgstr "Upload"
+
+#: lib/admin/options-medialibrary-uploader.php:291
+#@ frameshift
+msgid "Gallery"
+msgstr "Galerie"
+
+#: lib/admin/options-medialibrary-uploader.php:291
+#@ frameshift
+msgid "Previously Uploaded"
+msgstr "Zuvor hochgeladen"
+
+#: lib/admin/options.php:23
+#@ frameshift
+msgid "General"
+msgstr "Allgemein"
+
+#: lib/admin/options.php:29
+#@ frameshift
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/admin/options.php:30
+#: lib/admin/options.php:45
+#@ frameshift
+msgid "Please enter a URL or upload an image."
+msgstr "Bitte URL eingeben oder Bild hochladen."
+
+#: lib/admin/options.php:37
+#@ frameshift
+msgid "Text Logo"
+msgstr "Textlogo"
+
+#: lib/admin/options.php:38
+#@ frameshift
+msgid "Please enter a text logo that will be displayed instead of the above image logo."
+msgstr "Bitte Logotext eingeben, der anstelle eines Bildes angezeigt werden kann."
+
+#: lib/admin/options.php:44
+#@ frameshift
+msgid "Favicon"
+msgstr "Favicon"
+
+#: lib/admin/options.php:51
+#@ frameshift
+msgid "Custom RSS"
+msgstr "Eigenes RSS"
+
+#: lib/admin/options.php:52
+#@ frameshift
+msgid "Please enter a custom RSS URL (e.g. Feedburner)."
+msgstr "Bitte eine eigene RSS-URL eingeben (z. B. Feedburner) "
+
+#: lib/admin/options.php:58
+#@ frameshift
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: lib/admin/options.php:59
+#@ frameshift
+msgid "Add custom css to the head of your theme."
+msgstr "Eigenes CSS zum Header des Themes hinzufügen."
+
+#: lib/admin/options.php:65
+#@ frameshift
+msgid "Tracking Code"
+msgstr "Tracking-Code"
+
+#: lib/admin/options.php:66
+#@ frameshift
+msgid "Insert your tracking code here (e.g. Google Analytics). This code will be added to the footer of the theme."
+msgstr "Bitte Tracking-Code hier eingeben (z. B. Google Analytics). Dieser Code wird in den Footer des Themes eingetragen."
+
+#: lib/admin/options.php:94
+#: lib/admin/portfolio-options.php:98
+#: lib/admin/post-options.php:352
+#: lib/admin/post-options.php:386
+#@ frameshift
+msgid "Layout"
+msgstr "Layout"
+
+#: lib/admin/options.php:100
+#@ frameshift
+msgid "Header Right"
+msgstr "Header rechts"
+
+#: lib/admin/options.php:101
+#: lib/admin/options.php:144
+#@ frameshift
+msgid "You can add custom HTML and/or shortcodes, which will be automatically inserted into your theme."
+msgstr "Hier kann eigenes HTML und/oder Shortcodes in den Header-Bereich eingefügt werden."
+
+#: lib/admin/options.php:102
+#@ frameshift
+msgid "Add some info here"
+msgstr "Hier Ihren Inhalt einfügen."
+
+#: lib/admin/options.php:111
+#: lib/admin/options.php:127
+#@ frameshift
+msgid "Archive Layout"
+msgstr "Archiv-Layout"
+
+#: lib/admin/options.php:112
+#: lib/admin/options.php:128
+#@ frameshift
+msgid "Please remember that the layout is also limited through the sidebar. If the archive sidebar is active, only option #1 and #3 will be possible."
+msgstr "Bitte beachten, dass das Layout auch durch die Sidebars begrenzt ist. Wenn die Archiv-Sidebar aktiv ist, sind nur Option #1 und #3 möglich."
+
+#: lib/admin/options.php:143
+#@ frameshift
+msgid "Credit"
+msgstr "Footer"
+
+#: lib/admin/options.php:174
+#: lib/admin/options.php:218
+#: lib/admin/options.php:227
+#@ frameshift
+msgid "Social"
+msgstr "Social"
+
+#: lib/admin/options.php:189
+#@ frameshift
+msgid "Available Icons"
+msgstr "Vorhandene Icons"
+
+#: lib/admin/options.php:218
+#: lib/widgets/spaces.php:291
+#@ frameshift
+msgid "Icon"
+msgstr "Icon"
+
+#: lib/admin/options.php:219
+#@ frameshift
+msgid "Please select an icon."
+msgstr "Bitte Icon auswählen."
+
+#: lib/admin/options.php:227
+#: lib/widgets/spaces.php:410
+#@ frameshift
+msgid "Link"
+msgstr "Link"
+
+#: lib/admin/options.php:228
+#@ frameshift
+msgid "Please enter the URL to your social account."
+msgstr "Bitte URL zu Social Account eingeben."
+
+#: lib/admin/portfolio-options.php:62
+#: lib/admin/post-options.php:231
+#@ frameshift
+msgid "Right sidebar"
+msgstr "Sidebar rechts"
+
+#: lib/admin/portfolio-options.php:63
+#: lib/admin/post-options.php:232
+#@ frameshift
+msgid "No sidebar"
+msgstr "keine Sidebar"
+
+#: lib/admin/portfolio-options.php:64
+#: lib/admin/post-options.php:233
+#@ frameshift
+msgid "Left sidebar"
+msgstr "Sidebar links"
+
+#: lib/admin/portfolio-options.php:100
+#: lib/admin/post-options.php:354
+#: lib/admin/post-options.php:388
+#@ frameshift
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: lib/admin/post-options.php:355
+#@ frameshift
+msgid "Image Size"
+msgstr "Bildgröße"
+
+#: lib/admin/post-options.php:356
+#@ frameshift
+msgid "Keep in mind that the image size is limited by the layout."
+msgstr "Bitte beachten, dass die Bildgröße auch durch das Layout begrenzt ist."
+
+#: lib/admin/post-options.php:357
+#@ frameshift
+msgid "Image Align"
+msgstr "Bildausrichtung"
+
+#: lib/admin/post-options.php:358
+#@ frameshift
+msgid "Select your preferred image alignment."
+msgstr "Bitte bevorzugte Bildausrichtung wählen."
+
+#: lib/admin/post-options.php:360
+#: lib/widgets/divider.php:79
+#: lib/widgets/spaces.php:385
+#@ frameshift
+msgid "left"
+msgstr "links"
+
+#: lib/admin/post-options.php:361
+#: lib/widgets/divider.php:81
+#: lib/widgets/spaces.php:386
+#@ frameshift
+msgid "right"
+msgstr "rechts"
+
+#: lib/admin/post-options.php:362
+#: lib/widgets/spaces.php:293
+#: lib/widgets/spaces.php:311
+#: lib/widgets/spaces.php:384
+#@ frameshift
+msgid "none"
+msgstr "keine"
+
+#: lib/framework/comments.php:83
+#, php-format
+#@ frameshift
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
+
+#: lib/framework/comments.php:83
+#@ frameshift
+msgid "says"
+msgstr "sagt"
+
+#: lib/framework/comments.php:89
+#: lib/framework/comments.php:163
+#, php-format
+#@ frameshift
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: lib/framework/comments.php:91
+#: lib/framework/comments.php:165
+#@ frameshift
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: lib/framework/comments.php:98
+#: lib/framework/comments.php:172
+#@ frameshift
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freischaltung."
+
+#: lib/framework/main.php:131
+#@ frameshift
+msgid "Thank You!"
+msgstr "Vielen Dank!"
+
+#: lib/framework/main.php:133
+#, php-format
+#@ frameshift
+msgid "Thank you very much for using the <strong>%1$s</strong> theme."
+msgstr "Vielen Dank, dass Sie das <strong>%1$s</strong>-Theme verwenden."
+
+#: lib/framework/main.php:139
+#@ frameshift
+msgid "What Next?"
+msgstr "Was nun?"
+
+#: lib/framework/main.php:141
+#@ frameshift
+msgid "Add some content"
+msgstr "Eigenen Inhalt einfügen"
+
+#: lib/framework/main.php:141
+#, php-format
+#@ frameshift
+msgid "Create a new %1$s or %2$s"
+msgstr "Einen neuen %1$s oder eine %2$s anlegen"
+
+#: lib/framework/main.php:141
+#@ frameshift
+msgid "post"
+msgstr "Artikel"
+
+#: lib/framework/main.php:141
+#@ frameshift
+msgid "page"
+msgstr "Seite"
+
+#: lib/framework/main.php:142
+#@ frameshift
+msgid "Make your settings in the theme options"
+msgstr "Machen Sie Ihre Einstellungen in den Theme-Optionen"
+
+#: lib/framework/main.php:142
+#@ frameshift
+msgid "Theme options"
+msgstr "Theme-Optionen"
+
+#: lib/framework/main.php:143
+#@ frameshift
+msgid "Drag widgets to the home page widget area"
+msgstr "Ziehen Sie Widgets auf den Bereich Startseite"
+
+#: lib/framework/main.php:143
+#@ frameshift
+msgid "Edit widgets"
+msgstr "Widgets bearbeiten"
+
+#: lib/framework/main.php:144
+#@ frameshift
+msgid "Add items to the main menu"
+msgstr "Fügen Sie dem Hauptmenü eigene Punkte hinzu"
+
+#: lib/framework/main.php:144
+#: lib/functions/menus.php:87
+#@ frameshift
+msgid "Create a custom menu"
+msgstr "Eigenes Menü erstellen"
+
+#: lib/framework/main.php:149
+#@ frameshift
+msgid "Example Content?"
+msgstr "Ein Beispiel?"
+
+#: lib/framework/main.php:150
+#@ frameshift
+msgid "To get started with the theme you may also want to upload some dummy content (also see <a href=\"http://codex.wordpress.org/Importing_Content#WordPress\" target=\"_blank\">codex</a> about importing content)"
+msgstr "Um mit dem Theme warm zu werden, können Sie ein wenig Beispielinhalt importieren (s. a. <a href=\"http://codex.wordpress.org/Importing_Content#WordPress\" target=\"_blank\">Codex</a> zum Thema Import)"
+
+#: lib/framework/main.php:151
+#@ frameshift
+msgid "Download XML"
+msgstr "XML herunterladen"
+
+#: lib/framework/main.php:156
+#@ frameshift
+msgid "Need Help?"
+msgstr "Sie benötigen Hilfe?"
+
+#: lib/framework/main.php:157
+#@ frameshift
+msgid "If you need any help, please <a href=\"http://themeshift.com/register/\" target=\"_blank\">register</a> and head over to the <a href=\"http://themeshift.com/help/\" target=\"_blank\">help center</a>."
+msgstr "Wenn Sie Hilfe brauchen, <a href=\"http://themeshift.com/register/\" target=\"_blank\">registrieren</a> Sie sich bitte, um Zugriff auf das <a href=\"http://themeshift.com/help/\" target=\"_blank\">Hilfe-Center</a> zu bekommen."
+
+#: lib/framework/post.php:25
+#@ frameshift
+msgid "by"
+msgstr "von"
+
+#: lib/framework/portfolio.php:334
+#: lib/framework/post.php:251
+#@ frameshift
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: lib/framework/portfolio.php:335
+#: lib/framework/post.php:252
+#@ frameshift
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: lib/framework/post.php:310
+#@ frameshift
+msgid "About"
+msgstr "Über"
+
+#: lib/functions/general.php:78
+#: lib/functions/general.php:117
+#@ frameshift
+msgid "small"
+msgstr "klein"
+
+#: lib/functions/general.php:86
+#: lib/functions/general.php:125
+#@ frameshift
+msgid "half"
+msgstr "halb"
+
+#: lib/functions/general.php:94
+#: lib/functions/general.php:133
+#@ frameshift
+msgid "big"
+msgstr "groß"
+
+#: lib/functions/general.php:102
+#: lib/functions/general.php:141
+#@ frameshift
+msgid "full"
+msgstr "voll"
+
+#: lib/functions/general.php:244
+#@ frameshift
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: lib/functions/general.php:616
+#@ frameshift
+msgid "RSS"
+msgstr "RSS"
+
+#: lib/functions/general.php:617
+#@ frameshift
+msgid "Subscribe to RSS"
+msgstr "RSS abonnieren"
+
+#: lib/functions/general.php:622
+#@ frameshift
+msgid "Twitter"
+msgstr "Twitter"
+
+#: lib/functions/general.php:623
+#@ frameshift
+msgid "Follow us on Twitter"
+msgstr "Folgen Sie uns auf Twitter"
+
+#: lib/functions/general.php:628
+#@ frameshift
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lib/functions/general.php:629
+#@ frameshift
+msgid "Friend us on Facebook"
+msgstr "Treffen Sie uns auf Facebook"
+
+#: lib/functions/general.php:634
+#@ frameshift
+msgid "Google+"
+msgstr "Google+"
+
+#: lib/functions/general.php:635
+#@ frameshift
+msgid "Follow us on Google+"
+msgstr "Folgen Sie uns auf Google+"
+
+#: lib/functions/general.php:640
+#@ frameshift
+msgid "Skype"
+msgstr "Skype"
+
+#: lib/functions/general.php:641
+#@ frameshift
+msgid "Connect with us on Skype"
+msgstr "Kontaktieren Sie uns auf Skype"
+
+#: lib/functions/general.php:646
+#@ frameshift
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: lib/functions/general.php:647
+#@ frameshift
+msgid "See our videos on Vimeo"
+msgstr "Sehen Sie unsere Videos auf Vimeo"
+
+#: lib/functions/general.php:652
+#@ frameshift
+msgid "YouTube"
+msgstr "YouTube"
+
+#: lib/functions/general.php:653
+#@ frameshift
+msgid "See our video on YouTube"
+msgstr "Sehen Sie unsere Videos auf YouTube"
+
+#: lib/functions/general.php:658
+#@ frameshift
+msgid "Delicious"
+msgstr "Delicious"
+
+#: lib/functions/general.php:659
+#@ frameshift
+msgid "Find us on Delicious"
+msgstr "Finden Sie uns auf Delicious"
+
+#: lib/functions/general.php:664
+#@ frameshift
+msgid "Digg"
+msgstr "Digg"
+
+#: lib/functions/general.php:665
+#@ frameshift
+msgid "Find us on Digg"
+msgstr "Finden Sie uns auf Digg"
+
+#: lib/functions/general.php:670
+#@ frameshift
+msgid "Technorati"
+msgstr "Technorati"
+
+#: lib/functions/general.php:671
+#@ frameshift
+msgid "Find us on Technorati"
+msgstr "Finden Sie uns auf Technorati"
+
+#: lib/functions/general.php:929
+#: lib/widgets/spaces.php:36
+#@ frameshift
+msgid "Spaces"
+msgstr "Spaces"
+
+#: lib/functions/general.php:930
+#@ frameshift
+msgid "Sidebar Space"
+msgstr "Sidebar-Space"
+
+#: lib/functions/general.php:932
+#@ frameshift
+msgid "Add some custom content to this post. Then drag the Post Space widget to the Post Sidebar widget area."
+msgstr "Fügen Sie diesem Artikel individuellen Inhalt für die Sidebar hinzu. Dann ziehen Sie das Post-Space Widget in den Post-Sidebar Widget-Bereich."
+
+#: lib/framework/portfolio.php:26
+#: lib/framework/post.php:413
+#: lib/functions/general.php:978
+#: lib/functions/portfolio.php:219
+#: lib/shortcodes/post.php:655
+#: lib/widgets/slider.php:176
+#@ frameshift
+msgid "Previous"
+msgstr "Vorherige"
+
+#: lib/framework/portfolio.php:37
+#: lib/framework/post.php:414
+#: lib/functions/general.php:979
+#: lib/functions/portfolio.php:229
+#: lib/shortcodes/post.php:656
+#: lib/widgets/slider.php:177
+#@ frameshift
+msgid "Next"
+msgstr "Nächste"
+
+#: lib/functions/menus.php:19
+#@ frameshift
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: lib/shortcodes/footer.php:143
+#@ frameshift
+msgid "Log in"
+msgstr "Login"
+
+#: lib/shortcodes/footer.php:145
+#@ frameshift
+msgid "Log out"
+msgstr "Logout"
+
+#: lib/shortcodes/post.php:123
+#, php-format
+#@ frameshift
+msgid "Visit %s&#8217;s website"
+msgstr "%s&#8217;s Website besuchen"
+
+#: lib/shortcodes/post.php:160
+#, php-format
+#@ frameshift
+msgid "Posts by %s"
+msgstr "Artikel von %s"
+
+#: lib/shortcodes/post.php:188
+#@ frameshift
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: lib/shortcodes/post.php:239
+#@ frameshift
+msgid "Tags"
+msgstr "Tags"
+
+#: lib/shortcodes/post.php:273
+#@ frameshift
+msgid "Terms"
+msgstr "Terms"
+
+#: lib/shortcodes/post.php:312
+#@ frameshift
+msgid "[Edit]"
+msgstr "[Bearbeiten]"
+
+#: lib/widgets/latest.php:26
+#@ frameshift
+msgid "Latest posts teaser"
+msgstr "Letzte Beiträge anzeigen"
+
+#: lib/widgets/latest.php:27
+#@ frameshift
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+#: lib/widgets/calltoaction.php:99
+#: lib/widgets/divider.php:71
+#: lib/widgets/latest-work.php:305
+#: lib/widgets/latest.php:268
+#: lib/widgets/post-spaces.php:82
+#: lib/widgets/slider.php:340
+#: lib/widgets/spaces.php:304
+#@ frameshift
+msgid "Title"
+msgstr "Titel"
+
+#: lib/widgets/latest.php:274
+#@ frameshift
+msgid "Category"
+msgstr "Kategorie"
+
+#: lib/widgets/latest.php:276
+#@ frameshift
+msgid "Most recent posts"
+msgstr "Neueste Artikel"
+
+#: lib/widgets/latest-work.php:341
+#: lib/widgets/latest.php:289
+#@ frameshift
+msgid "Number of posts to show"
+msgstr "Anzahl der Beiträge"
+
+#: lib/widgets/latest-work.php:342
+#: lib/widgets/latest.php:290
+#@ frameshift
+msgid "(at most 20)"
+msgstr "(max. 20)"
+
+#: lib/widgets/latest.php:294
+#@ frameshift
+msgid "Number of words in excerpt"
+msgstr "Anzahl der Wörter im Artikelauszug"
+
+#: lib/widgets/latest-work.php:346
+#: lib/widgets/latest.php:299
+#: lib/widgets/spaces.php:416
+#@ frameshift
+msgid "Width"
+msgstr "Breite"
+
+#: lib/widgets/post-spaces.php:27
+#@ frameshift
+msgid "Custom sidebar content on posts and pages"
+msgstr "Individueller Sidebar-Inhalt in Artikeln und auf Seiten"
+
+#: lib/widgets/post-spaces.php:28
+#@ frameshift
+msgid "Post Spaces"
+msgstr "Post-Spaces"
+
+#: lib/widgets/post-spaces.php:88
+#@ frameshift
+msgid "Space"
+msgstr "Space"
+
+#: lib/widgets/post-spaces.php:96
+#@ frameshift
+msgid "Select the space to display"
+msgstr "Bitte gewünschten Space wählen"
+
+#: lib/widgets/slider.php:27
+#@ frameshift
+msgid "jQuery content slider"
+msgstr "jQuery Slider"
+
+#: lib/widgets/slider.php:28
+#@ frameshift
+msgid "Slider"
+msgstr "Slider"
+
+#: lib/shortcodes/post.php:658
+#: lib/widgets/slider.php:179
+#@ frameshift
+msgid "Pause"
+msgstr "Pause"
+
+#: lib/shortcodes/post.php:659
+#: lib/widgets/slider.php:180
+#@ frameshift
+msgid "Play"
+msgstr "Abspielen"
+
+#: lib/widgets/latest-work.php:311
+#: lib/widgets/slider.php:346
+#@ frameshift
+msgid "Filter"
+msgstr "Filter"
+
+#: lib/widgets/slider.php:348
+#@ frameshift
+msgid "Latest posts"
+msgstr "Letzte Artikel"
+
+#: lib/widgets/latest-work.php:320
+#: lib/widgets/slider.php:355
+#@ frameshift
+msgid "Custom field"
+msgstr "Benutzerdefiniertes Feld"
+
+#: lib/widgets/slider.php:361
+#@ frameshift
+msgid "Effect"
+msgstr "Effekt"
+
+#: lib/widgets/slider.php:363
+#@ frameshift
+msgid "fade"
+msgstr "überblenden"
+
+#: lib/widgets/slider.php:364
+#@ frameshift
+msgid "slide"
+msgstr "sliden"
+
+#: lib/widgets/slider.php:369
+#@ frameshift
+msgid "Direction"
+msgstr "Richtung"
+
+#: lib/widgets/slider.php:371
+#@ frameshift
+msgid "horizontal"
+msgstr "horizontal"
+
+#: lib/widgets/slider.php:372
+#@ frameshift
+msgid "vertical"
+msgstr "vertikal"
+
+#: lib/widgets/slider.php:377
+#@ frameshift
+msgid "Timer"
+msgstr "Timer"
+
+#: lib/widgets/slider.php:379
+#@ frameshift
+msgid "off"
+msgstr "aus"
+
+#: lib/widgets/slider.php:381
+#@ frameshift
+msgid "seconds"
+msgstr "Sekunden"
+
+#: lib/widgets/slider.php:388
+#@ frameshift
+msgid "Overlay"
+msgstr "Overlay"
+
+#: lib/widgets/slider.php:393
+#@ frameshift
+msgid "Post teaser"
+msgstr "Arikelauszug"
+
+#: lib/widgets/slider.php:398
+#@ frameshift
+msgid "Previous & next buttons"
+msgstr "Vor- & Zurück-Buttons"
+
+#: lib/widgets/slider.php:403
+#@ frameshift
+msgid "Keyboard navigation"
+msgstr "Tastatursteuerung"
+
+#: lib/widgets/slider.php:408
+#@ frameshift
+msgid "Mouse wheel navigation"
+msgstr "Mausradsteuerung"
+
+#: lib/widgets/slider.php:413
+#@ frameshift
+msgid "Random order"
+msgstr "Zufällige Reihenfolge"
+
+#: lib/widgets/slider.php:418
+#@ frameshift
+msgid "Remove links"
+msgstr "Links entfernen"
+
+#: lib/widgets/slider.php:422
+#@ frameshift
+msgid "Number of entries"
+msgstr "Anzahl der Beiträge"
+
+#: lib/widgets/slider.php:428
+#@ frameshift
+msgid "Number of words in teaser"
+msgstr "Anzahl der Wörter in Artikelauszug"
+
+#: lib/widgets/spaces.php:35
+#@ frameshift
+msgid "Content space with text and image"
+msgstr "Space-Bereich mit Bild und Text"
+
+#: lib/widgets/spaces.php:48
+#: lib/widgets/spaces.php:281
+#@ frameshift
+msgid "Change image"
+msgstr "Bild austauschen"
+
+#: lib/widgets/spaces.php:281
+#@ frameshift
+msgid "Add image"
+msgstr "Bild hinzufügen"
+
+#: lib/admin/post-options.php:389
+#: lib/widgets/spaces.php:322
+#@ frameshift
+msgid "Image"
+msgstr "Bild"
+
+#: lib/widgets/spaces.php:355
+#@ frameshift
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+#: lib/widgets/spaces.php:359
+#@ frameshift
+msgid "Image size"
+msgstr "Bildgröße"
+
+#: lib/widgets/spaces.php:361
+#@ frameshift
+msgid "custom"
+msgstr "eigene"
+
+#: lib/widgets/spaces.php:368
+#@ frameshift
+msgid "Image size is also limited by the box width you select below"
+msgstr "Die Bildgröße ist ebenfalls durch die Breite des Widgets begrenzt."
+
+#: lib/widgets/spaces.php:374
+#@ frameshift
+msgid "Image width"
+msgstr "Bildbreite"
+
+#: lib/widgets/spaces.php:382
+#@ frameshift
+msgid "Image align"
+msgstr "Bildausrichtung"
+
+#: lib/widgets/divider.php:80
+#: lib/widgets/spaces.php:387
+#@ frameshift
+msgid "center"
+msgstr "zentriert"
+
+#: lib/widgets/spaces.php:393
+#@ frameshift
+msgid "Link image"
+msgstr "Bild verlinken"
+
+#: lib/widgets/spaces.php:394
+#@ frameshift
+msgid "Click on image opens lightbox"
+msgstr "Klick auf Bild öffnet Lightbox"
+
+#: lib/widgets/calltoaction.php:105
+#: lib/widgets/spaces.php:400
+#@ frameshift
+msgid "Text"
+msgstr "Text"
+
+#: lib/widgets/spaces.php:412
+#@ frameshift
+msgid "Adds links to title and image (enter a URL or post/page ID)"
+msgstr "Verlinkt Titel und Bild (URL oder Artikel-/Seiten-ID eintragen)"
+
+#: lib/widgets/spaces.php:428
+#@ frameshift
+msgid "First widget"
+msgstr "Erstes Widget"
+
+#: lib/widgets/spaces.php:429
+#@ frameshift
+msgid "Position of the widget in the row."
+msgstr "Position des Widgets in derselben Reihe."
+
+#: lib/widgets/spaces.php:487
+#@ frameshift
+msgid "Insert into Widget"
+msgstr "In Widget einfügen"
+
+#: lib/widgets/widgets.php:21
+#: sidebar.php:20
+#@ frameshift
+msgid "General Sidebar"
+msgstr "Sidebar Allgemein"
+
+#: lib/widgets/widgets.php:22
+#@ frameshift
+msgid "This is the primary sidebar to display the same widgets on all pages."
+msgstr "Dies ist die Haupt-Sidebar, die dieselben Widgets auf allen Seiten anzeigt."
+
+#: lib/widgets/widgets.php:31
+#@ frameshift
+msgid "Archive Sidebar"
+msgstr "Sidebar Archiv"
+
+#: lib/widgets/widgets.php:32
+#@ frameshift
+msgid "This is the sidebar on category, tag, author, date and search pages. If empty, archives will be displayed without sidebar."
+msgstr "Diese Sidebar wird in Kategorie-, Tag-, Autor- und Datumsarchiven sowie in Suchergebnissen angezeigt. Wenn nicht aktiv, werden Archive in voller Breite ohne Sidebar angezeigt."
+
+#: lib/widgets/widgets.php:41
+#@ frameshift
+msgid "Post Sidebar"
+msgstr "Sidebar Artikel"
+
+#: lib/widgets/widgets.php:42
+#@ frameshift
+msgid "This is the sidebar on single post pages. If empty, posts will be displayed without sidebar."
+msgstr "Diese Sidebar wird in Einzelartikeln angezeigt. Wenn nicht aktiv, werden Artikel generell in voller Breite ohne Sidebar dargestellt."
+
+#: lib/widgets/widgets.php:51
+#@ frameshift
+msgid "Page Sidebar"
+msgstr "Sidebar Seiten"
+
+#: lib/widgets/widgets.php:52
+#@ frameshift
+msgid "This is the sidebar on static pages. If empty, pages will be displayed without sidebar."
+msgstr "Diese Sidebar wird auf statischen Seiten angezeigt. Wenn nicht aktiv, werden Seiten in voller Breite ohne Sidebar dargestellt."
+
+#: lib/widgets/widgets.php:71
+#@ frameshift
+msgid "Home Page Top"
+msgstr "Startseite Oben"
+
+#: lib/widgets/widgets.php:72
+#@ frameshift
+msgid "Top Content on the home page"
+msgstr "Bereich über Hauptinhalt auf der Startseite"
+
+#: lib/widgets/widgets.php:81
+#@ frameshift
+msgid "Home Page Content"
+msgstr "Startseite"
+
+#: lib/widgets/widgets.php:82
+#@ frameshift
+msgid "Main Content on the home page"
+msgstr "Hauptinhalt auf der Startseite"
+
+#: lib/widgets/widgets.php:91
+#: sidebar.php:20
+#@ frameshift
+msgid "Home Page Sidebar"
+msgstr "Startseite Sidebar"
+
+#: lib/widgets/widgets.php:92
+#@ frameshift
+msgid "The sidebar on the home page"
+msgstr "Diese Sidebar wird nur auf der Startseite angezeigt"
+
+#: lib/widgets/widgets.php:101
+#@ frameshift
+msgid "Home Page Bottom"
+msgstr "Startseite Unten"
+
+#: lib/widgets/widgets.php:102
+#@ frameshift
+msgid "Bottom Content on the home page"
+msgstr "Bereich unter dem Hauptinhalt auf der Startseite"
+
+#: lib/widgets/widgets.php:111
+#@ frameshift
+msgid "Footer"
+msgstr "Footer"
+
+#: lib/widgets/widgets.php:112
+#@ frameshift
+msgid "Footer widget area"
+msgstr "Widget-Bereich im Footer"
+
+#: sidebar.php:18
+#@ frameshift
+msgid "Widget Area"
+msgstr "Widget-Bereich"
+
+#: sidebar.php:20
+#, php-format
+#@ frameshift
+msgid "This is a widget area. Please drag and drop your preferred widgets to the area %s"
+msgstr "Hier ist ein Widget-Bereich. Bitte ziehen Sie Ihre bevorzugten Widgets in den Bereich %s "
+
+#: sidebar.php:20
+#@ frameshift
+msgid "or"
+msgstr "oder"
+
+#: sidebar.php:20
+#@ frameshift
+msgid "Edit Widgets"
+msgstr "Widgets bearbeiten"
+
+#: lib/admin/options.php:144
+#@ frameshift
+msgid " Available shortcodes"
+msgstr "Verfügbare Shortcodes"
+
+#: comments.php:178
+#, php-format
+#@ frameshift
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sie müssen <a href=\"%s\">eingeloggt</a> sein, um zu kommentieren."
+
+#: comments.php:182
+#, php-format
+#@ frameshift
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Eingeloggt als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Ausloggen\">Logout?</a>"
+
+#: comments.php:185
+#@ frameshift
+msgid "Your email address will not be published."
+msgstr "Ihre E-Mail wird nicht veröffentlicht."
+
+#: comments.php:186
+#, php-format
+#@ frameshift
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Folgende <abbr title=\"HyperText Markup Language\">HTML</abbr>-Tags und Attribute dürfen verwendet werden: %s"
+
+#: lib/framework/comments.php:106
+#@ frameshift
+msgid "Reply"
+msgstr "Antworten"
+
+#: lib/framework/comments.php:106
+#@ frameshift
+msgid "Log in to reply"
+msgstr "Einloggen"
+
+#: comments.php:189
+#@ frameshift
+msgid "Post Comment"
+msgstr "Kommentar senden"
+
+#: comments.php:187
+#@ frameshift
+msgid "Cancel reply"
+msgstr "Abbrechen"
+
+#: loop-no.php:4
+#@ frameshift
+msgid "<strong>Sorry!</strong> No posts matched your criteria."
+msgstr "<strong>Sorry!</strong> Keine passenden Beiträge gefunden."
+
+#: lib/functions/general.php:1020
+#@ frameshift
+msgid "Ok"
+msgstr "Ok"
+
+#: lib/framework/comments.php:157
+#, php-format
+#@ frameshift
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: lib/framework/post.php:25
+#@ frameshift
+msgid "in"
+msgstr "in"
+
+#: lib/framework/post.php:28
+#@ frameshift
+msgid "Sticky"
+msgstr "Sticky"
+
+#: lib/framework/post.php:434
+#@ frameshift
+msgid "Back to Article"
+msgstr "Zurück zum Artikel"
+
+#: lib/functions/general.php:1041
+#@ frameshift
+msgid "This post is password protected. To view it please enter your password below"
+msgstr "Dieser Artikel ist durch ein Passwort geschützt. Bitte Passwort eingeben."
+
+#: lib/functions/general.php:1042
+#@ frameshift
+msgid "Password"
+msgstr "Passwort"
+
+#: lib/functions/general.php:1042
+#: lib/functions/general.php:1059
+#@ frameshift
+msgid "Submit"
+msgstr "Absenden"
+
+#: lib/functions/helpers.php:135
+#@ frameshift
+msgid "Untitled"
+msgstr "Unbenannt"
+
+#: lib/shortcodes/post.php:350
+#@ frameshift
+msgid "Attached to"
+msgstr "Anhang von"
+
+#: lib/widgets/spaces.php:300
+#: lib/widgets/spaces.php:318
+#, php-format
+#@ frameshift
+msgid "See available <a href=\"%s\" target=\"_blank\">icons</a>"
+msgstr "Hier sind verfügbare <a href=\"%s\" target=\"_blank\">Icons</a>"
+
+#: lib/widgets/spaces.php:309
+#@ frameshift
+msgid "Title Icon"
+msgstr "Titel-Icon"
+
+#: lib/widgets/spaces.php:406
+#@ frameshift
+msgid "Center widget content"
+msgstr "Widget-Inhalt zentrieren"
+
+#: lib/admin/options-framework.php:236
+#@ frameshift
+msgid "Theme Support"
+msgstr "Theme-Support"
+
+#: lib/admin/options-framework.php:238
+#@ frameshift
+msgid "If you need help with the theme, please access the ThemeShift help center."
+msgstr "Wenn Sie Hilfe benötigen, besuchen Sie bitte das ThemeShift Hilfe-Center."
+
+#: lib/admin/options-framework.php:239
+#@ frameshift
+msgid "Help Center"
+msgstr "Hilfe-Center"
+
+#: lib/framework/header.php:87
+#: lib/framework/header.php:114
+#@ frameshift
+msgid "Select a page"
+msgstr "Wählen Sie eine Seite"
+
+#: lib/widgets/calltoaction.php:24
+#@ frameshift
+msgid "Visually highlighted call to action"
+msgstr "Visuell hervorgehobenes Call-To-Action"
+
+#: lib/widgets/calltoaction.php:25
+#@ frameshift
+msgid "Call to Action"
+msgstr "Call-To-Action"
+
+#: lib/widgets/calltoaction.php:35
+#: lib/widgets/calltoaction.php:96
+#@ frameshift
+msgid "Button Label"
+msgstr "Button-Label"
+
+#: lib/widgets/calltoaction.php:110
+#@ frameshift
+msgid "Button"
+msgstr "Button"
+
+#: lib/widgets/calltoaction.php:113
+#@ frameshift
+msgid "Enter URL or post/page ID"
+msgstr "Bitte URL oder Artikel-/Seiten-ID eingeben"
+
+#: lib/widgets/calltoaction.php:117
+#@ frameshift
+msgid "Label"
+msgstr "Label"
+
+#: lib/widgets/divider.php:24
+#@ frameshift
+msgid "Visual divider between widgets"
+msgstr "Optische Trennung zwischen Widgets"
+
+#: lib/widgets/divider.php:25
+#@ frameshift
+msgid "Divider"
+msgstr "Divider"
+
+#: lib/widgets/divider.php:77
+#@ frameshift
+msgid "Title Align"
+msgstr "Titelausrichtung"
+
+#: lib/admin/post-options.php:390
+#@ frameshift
+msgid "Select your favorite image display option."
+msgstr "Bitte bevorzugte Bildanzeigeoption auswählen."
+
+#: lib/admin/post-options.php:392
+#@ frameshift
+msgid "Featured Image"
+msgstr "Artikelbild"
+
+#: lib/admin/post-options.php:393
+#@ frameshift
+msgid "Thumbnail (only archives)"
+msgstr "Thumbnail (nur Archiv)"
+
+#: lib/admin/post-options.php:395
+#@ frameshift
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: lib/admin/post-options.php:396
+#@ frameshift
+msgid "Open thumbnail image in lightbox on archive pages"
+msgstr "Thumbnail auf Archivseiten in Lightbox öffnen"
+
+#: lib/admin/post-options.php:419
+#: lib/framework/portfolio.php:264
+#: lib/framework/portfolio.php:301
+#@ frameshift
+msgid "Project Details"
+msgstr "Projektdetails"
+
+#: lib/admin/post-options.php:421
+#@ frameshift
+msgid "Description"
+msgstr "Beschreibung"
+
+#: lib/admin/post-options.php:422
+#@ frameshift
+msgid "Short Description"
+msgstr "Kurzbeschreibung"
+
+#: lib/admin/post-options.php:423
+#: lib/functions/portfolio.php:175
+#@ frameshift
+msgid "Client"
+msgstr "Kunde"
+
+#: lib/admin/post-options.php:424
+#@ frameshift
+msgid "Project URL"
+msgstr "Projekt-URL"
+
+#: lib/framework/portfolio.php:35
+#: lib/framework/portfolio.php:65
+#: lib/framework/portfolio.php:235
+#@ frameshift
+msgid "All"
+msgstr "Alle"
+
+#: lib/functions/menus.php:20
+#@ frameshift
+msgid "Bottom Menu"
+msgstr "Menü unten"
+
+#: lib/functions/portfolio.php:24
+#: lib/functions/portfolio.php:35
+#@ frameshift
+msgctxt "portfolio"
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: lib/functions/portfolio.php:25
+#@ frameshift
+msgctxt "portfolio"
+msgid "Portfolio Item"
+msgstr "Projekt"
+
+#: lib/functions/portfolio.php:26
+#@ frameshift
+msgctxt "portfolio"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: lib/functions/portfolio.php:27
+#@ frameshift
+msgctxt "portfolio"
+msgid "Add New Portfolio Item"
+msgstr "Neues Projekt erstellen"
+
+#: lib/functions/portfolio.php:28
+#@ frameshift
+msgctxt "portfolio"
+msgid "Edit Portfolio Item"
+msgstr "Projekt bearbeiten"
+
+#: lib/functions/portfolio.php:29
+#@ frameshift
+msgctxt "portfolio"
+msgid "New Portfolio Item"
+msgstr "Neues Projekt"
+
+#: lib/functions/portfolio.php:30
+#@ frameshift
+msgctxt "portfolio"
+msgid "View Portfolio Item"
+msgstr "Projekt ansehen"
+
+#: lib/functions/portfolio.php:31
+#@ frameshift
+msgctxt "portfolio"
+msgid "Search Portfolio"
+msgstr "Portfolio durchsuchen"
+
+#: lib/functions/portfolio.php:32
+#@ frameshift
+msgctxt "portfolio"
+msgid "No portfolio item found"
+msgstr "Kein Projekt gefunden"
+
+#: lib/functions/portfolio.php:33
+#@ frameshift
+msgctxt "portfolio"
+msgid "No portfolio item found in Trash"
+msgstr "Kein Projekt im Papierkorb gefunden"
+
+#: lib/functions/portfolio.php:34
+#@ frameshift
+msgctxt "portfolio"
+msgid "Parent Portfolio Item:"
+msgstr "Übergeordnetes Projekt:"
+
+#: lib/functions/portfolio.php:83
+#: lib/functions/portfolio.php:97
+#@ frameshift
+msgctxt "skills"
+msgid "Skills"
+msgstr "Bereiche"
+
+#: lib/functions/portfolio.php:84
+#@ frameshift
+msgctxt "skills"
+msgid "Skill"
+msgstr "Bereich"
+
+#: lib/functions/portfolio.php:85
+#@ frameshift
+msgctxt "skills"
+msgid "Search Skills"
+msgstr "Bereiche durchsuchen"
+
+#: lib/functions/portfolio.php:86
+#@ frameshift
+msgctxt "skills"
+msgid "Popular Skills"
+msgstr "Populäre Bereiche"
+
+#: lib/functions/portfolio.php:87
+#@ frameshift
+msgctxt "skills"
+msgid "All Skills"
+msgstr "Alle Bereiche"
+
+#: lib/functions/portfolio.php:88
+#@ frameshift
+msgctxt "skills"
+msgid "Parent Skill"
+msgstr "Übergeordneter Bereich"
+
+#: lib/functions/portfolio.php:89
+#@ frameshift
+msgctxt "skills"
+msgid "Parent Skill:"
+msgstr "Übergeordneter Bereich:"
+
+#: lib/functions/portfolio.php:90
+#@ frameshift
+msgctxt "skills"
+msgid "Edit Skill"
+msgstr "Bereich bearbeiten"
+
+#: lib/functions/portfolio.php:91
+#@ frameshift
+msgctxt "skills"
+msgid "Update Skill"
+msgstr "Bereich aktualisieren"
+
+#: lib/functions/portfolio.php:92
+#@ frameshift
+msgctxt "skills"
+msgid "Add New Skill"
+msgstr "Bereich hinzufügen"
+
+#: lib/functions/portfolio.php:93
+#@ frameshift
+msgctxt "skills"
+msgid "New Skill"
+msgstr "Neuer Bereich"
+
+#: lib/functions/portfolio.php:94
+#@ frameshift
+msgctxt "skills"
+msgid "Separate skills with commas"
+msgstr "Bereiche mit Komma trennen"
+
+#: lib/functions/portfolio.php:95
+#@ frameshift
+msgctxt "skills"
+msgid "Add or remove skills"
+msgstr "Bereiche hinzufügen oder entfernen"
+
+#: lib/functions/portfolio.php:96
+#@ frameshift
+msgctxt "skills"
+msgid "Choose from the most used skills"
+msgstr "Meist verwendete Bereiche"
+
+#: lib/functions/portfolio.php:184
+#@ frameshift
+msgid "Date"
+msgstr "Datum"
+
+#: lib/functions/portfolio.php:190
+#@ frameshift
+msgid "Skills"
+msgstr "Bereiche"
+
+#: lib/functions/portfolio.php:200
+#@ frameshift
+msgid "View Project"
+msgstr "Projekt ansehen"
+
+#: lib/widgets/latest-work.php:26
+#@ frameshift
+msgid "Latest portfolio teaser"
+msgstr "Letzte Projekte anzeigen"
+
+#: lib/widgets/latest-work.php:27
+#@ frameshift
+msgid "Latest Work"
+msgstr "Letzte Projekte"
+
+#: lib/widgets/latest-work.php:313
+#@ frameshift
+msgid "Latest portfolio items"
+msgstr "Letzte Projekte"
+
+#: lib/widgets/latest-work.php:327
+#@ frameshift
+msgid "Portfolio Archive Link"
+msgstr "Link auf Portfolioarchiv"
+
+#: lib/widgets/latest-work.php:332
+#@ frameshift
+msgid "Project Title"
+msgstr "Projekttitel"
+
+#: lib/widgets/latest-work.php:337
+#@ frameshift
+msgid "Project Description"
+msgstr "Projektbeschreibung"
+
+#: lib/widgets/widgets.php:61
+#@ frameshift
+msgid "Portfolio Sidebar"
+msgstr "Sidebar Portfolio"
+
+#: lib/widgets/widgets.php:62
+#@ frameshift
+msgid "This is the sidebar on portfolio pages."
+msgstr "Dies ist die Sidebar auf Portfolioseiten."
+

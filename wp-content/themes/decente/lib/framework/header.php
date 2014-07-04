@@ -338,7 +338,8 @@ function frameshift_header_style() {
 	?>
 <style type="text/css">
 #header {
-    background: url(<?php header_image(); ?>) no-repeat center top;
+    background: url(<?php header_image(); ?>) repeat center top;
+    height:70px;
 }
 </style>
 <?php }

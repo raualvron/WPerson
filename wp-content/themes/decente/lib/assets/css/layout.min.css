@@ -77,6 +77,9 @@ h6 {
     font-size: 12px}
 .title {
     font-size: 20px}
+.leftdiv .row .image-slider.span12 {
+    width: 630px;
+}
 #sidebar .title {
     line-height: 28px;
     margin-bottom: 15px!important;

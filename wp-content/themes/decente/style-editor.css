@@ -13,6 +13,11 @@ Description: Used to style the TinyMCE editor.
     -webkit-text-size-adjust: 100%;
 }
 
+.image-slider.span12 {
+width: 674px !important;
+}
+
+
 body {
 	color: #505050;
 }

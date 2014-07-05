@@ -167,7 +167,7 @@ function frameshift_project_details() {
 	
 	// Project client
 	
-	$project_client = get_post_meta( get_the_ID(), '_project_client', true );
+	/*$project_client = get_post_meta( get_the_ID(), '_project_client', true );
 	
 	if( ! empty( $project_client ) ) {
 		
@@ -176,7 +176,7 @@ function frameshift_project_details() {
 		$project_details .= $project_client . "\n";
 		$project_details .= '</div>' . "\n";
 		
-	}
+	}*/
 	
 	// Project date
 	

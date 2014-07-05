@@ -167,9 +167,9 @@ function frameshift_project_details() {
 	
 	// Project client
 	
-	/*$project_client = get_post_meta( get_the_ID(), '_project_client', true );
+	$project_client = get_post_meta( get_the_ID(), '_project_client', true );
 	
-	if( ! empty( $project_client ) ) {
+	/*if( ! empty( $project_client ) ) {
 		
 		$project_details .= '<div class="project-details-client">' . "\n";
 		$project_details .= '<span>' . apply_filters( 'frameshift_project_details_client', __( 'Client', 'frameshift' ) . ':' ) . '</span>';

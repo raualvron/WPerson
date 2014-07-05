@@ -2553,6 +2553,10 @@ to {
     visibility: hidden}
 @media(max-width: 768px) {
 
+	#header-right {
+		display:none;
+	}
+
 	.leftdiv .row .image-slider.span12 {
 	width: auto !important;
 	margin:auto;}

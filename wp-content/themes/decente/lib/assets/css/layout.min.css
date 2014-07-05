@@ -1081,8 +1081,8 @@ a.pp_arrow_next {
 pre {
     padding: 8px;
     color: #555;
-    background-color: #fcfcfc;
-    border: 1px dotted #ddd;
+    background-color: #fff;
+    border: 0px;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0}

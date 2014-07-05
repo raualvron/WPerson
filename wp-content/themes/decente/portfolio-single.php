@@ -12,12 +12,7 @@ the_post();
 ?>
     		
 <div <?php post_class( 'clearfix' ); ?>>
-    
-    <?php
-    	// Action hook before portfolio content
-        do_action( 'frameshift_portfolio_content_before' );
-    ?>
-    	
+        	
     <div class="post-teaser clearfix">
     	<?php the_content(); ?>
     </div>

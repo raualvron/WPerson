@@ -221,7 +221,7 @@ class FrameShift_Latest_Work extends WP_Widget {
 						
 							?>
 						    
-						    <div <?php post_class( $widget_width . $clear . ' clearfix' ); ?>>
+						    <div id="lastwork" <?php post_class( $widget_width . $clear . ' clearfix' ); ?>>
 						    
 						    	<div class="widget-inner">
 						        

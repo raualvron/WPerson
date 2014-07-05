@@ -14,6 +14,11 @@ p,ul,ol,pre,dl dd {
     margin-bottom: 20px;
     -webkit-margin-before: 0;
 }
+
+#lastwork {
+    text-align:center;
+}
+
 li {
     line-height: inherit;
     margin-bottom: 0}

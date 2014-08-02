@@ -50,8 +50,9 @@ wp_head();
     		?>
     		
     	</div><!-- #header-right -->
-    	
-    </div><!-- #header --><?php
+
+    </div>
+    <!-- #header --><?php
     
     // Close layout wrap		
     frameshift_layout_wrap( 'header-wrap', 'close' );

@@ -187,7 +187,7 @@ function frameshift_project_details() {
 	
 	// Project terms (skills)
 	
-	$project_details .= get_the_term_list( get_the_ID(), 'skills', '<div class="project-details-skills"><span>' . __( 'Skills', 'frameshift' ) . ':&nbsp;</span>', ', ', '</div>' );
+	$project_details .= ereg_replace("Proyecto","",get_the_term_list( get_the_ID(), 'skills', '<div class="project-details-skills"><span>' . __( 'Skills', 'frameshift' ) . ':&nbsp;</span>', ' ', '</div>' ));
 	
 	// Project URL
 	
